@@ -27,7 +27,6 @@
 		0B99EBE62B2ABDE000A5965C /* transaction.json in Resources */ = {isa = PBXBuildFile; fileRef = 0B99EBE52B2ABDE000A5965C /* transaction.json */; };
 		0B99EBE92B2ABE7E00A5965C /* AccountViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B99EBE82B2ABE7E00A5965C /* AccountViewModel.swift */; };
 		0B99EBEB2B2ABEBF00A5965C /* AccountModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B99EBEA2B2ABEBF00A5965C /* AccountModel.swift */; };
-		0B99EBED2B2ABF5500A5965C /* FileLoader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0B99EBEC2B2ABF5500A5965C /* FileLoader.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -72,7 +71,6 @@
 		0B99EBE52B2ABDE000A5965C /* transaction.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = transaction.json; sourceTree = "<group>"; };
 		0B99EBE82B2ABE7E00A5965C /* AccountViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountViewModel.swift; sourceTree = "<group>"; };
 		0B99EBEA2B2ABEBF00A5965C /* AccountModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AccountModel.swift; sourceTree = "<group>"; };
-		0B99EBEC2B2ABF5500A5965C /* FileLoader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileLoader.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -210,7 +208,6 @@
 				0B99EBBB2B2AB54800A5965C /* Info.plist */,
 				0B99EBE32B2ABDB200A5965C /* account.json */,
 				0B99EBE52B2ABDE000A5965C /* transaction.json */,
-				0B99EBEC2B2ABF5500A5965C /* FileLoader.swift */,
 			);
 			path = BankAccount;
 			sourceTree = "<group>";
@@ -391,7 +388,6 @@
 				0B0D73742B2AEA2400F8B0CD /* TransactionUIView.swift in Sources */,
 				0B0D73762B2AF17C00F8B0CD /* TransactionViewModel.swift in Sources */,
 				0B99EBEB2B2ABEBF00A5965C /* AccountModel.swift in Sources */,
-				0B99EBED2B2ABF5500A5965C /* FileLoader.swift in Sources */,
 				0B99EBE92B2ABE7E00A5965C /* AccountViewModel.swift in Sources */,
 				0B99EBE12B2AB5D500A5965C /* AccountTableViewCell.swift in Sources */,
 				0B99EBAE2B2AB54500A5965C /* AppDelegate.swift in Sources */,

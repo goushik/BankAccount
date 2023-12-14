@@ -30,7 +30,6 @@ class AccountTableViewCell: UITableViewCell {
     }
     
     func configure(with account: Account) {
-//        typeLabel.text = "Type: \(transaction.type)"
         accountNumberLabel.text = account.number
         balanceLabel.text = "$\(account.balance)"
         typeLabel.text = account.type
