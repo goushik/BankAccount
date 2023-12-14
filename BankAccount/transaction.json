@@ -1,0 +1,41 @@
+
+{
+    "transactions": [
+        {
+            "id":1,
+            "date": 721608018,
+            "value": -100,
+            "type": "BPay"
+        },
+        {
+            "id":2,
+            "date": 721608118,
+            "value": 100,
+            "type": "transfer in"
+        },
+        {
+            "id":3,
+            "date": 721608108,
+            "value": 200,
+            "type": "transfer in"
+        },
+        {
+            "id":4,
+            "date": 721608168,
+            "value": 300,
+            "type": "transfer in"
+        },
+        {
+            "id":5,
+            "date": 721607018,
+            "value": -100,
+            "type": "transfer out"
+        },
+        {
+            "id":6,
+            "date": 721606018,
+            "value": 100,
+            "type": "PayID"
+        }
+    ]
+}
